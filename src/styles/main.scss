@@ -1,3 +1,17 @@
-body {
-    background-color: blue;
-  }
+@import "../javascripts/components/eat/eat.scss";
+@import "../javascripts/components/fight/fight.scss";
+@import "../javascripts/components/play/play.scss";
+@import "../javascripts/components/sleep/sleep.scss";
+
+
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    position:fixed; 
+}
