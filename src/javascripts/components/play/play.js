@@ -1,9 +1,9 @@
 import util from '../../helpers/utilities';
 
-let fun = 100;
+let fun = 50;
 
 const playTime = () => {
-  if (fun < 100 || fun === 50) {
+  if (fun > 0) {
     fun += 10;
     document.getElementById('proPlay').value = fun;
   }
