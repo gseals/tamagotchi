@@ -7,16 +7,32 @@
 Use this application to relive the nostalgia of the '90s and all your wildest childhood dreams.
 (2 or 3 sentences)
 
-## Screenshots
+## Technologies Used
 
+* HTML5, CSS, and Javascript
+* [Bootstrap](https://getbootstrap.com/): free and open-source CSS framework
+* jQuery
+* SCSS
+* ES6 Modules
 
-* throw an exclamation point in front of this (without the exclamation point, the line is just a link)
-* square brackets house alt text (if the link breaks, this is what appears)
-* parentheses is the image location on github (on github, open the folder, open the image, select download; always starts with raw something
-* do yourself a favor, create your screenshots folder and place all images in that you will be interacting with. then, come back down and place them where you would like them to go
+## Screenshot(s)
 
-## How to run
+Page Load
+![Main View](https://raw.githubusercontent.com/gseals/personal-bio-site/master/screenshots/Mainview.png)
 
-* clone down this project
-* install [http-server](https://www.npmjs.com/package/http-server) from npm
-* At the root of this project, run the following command: `hs -p 8888`
+Technologies
+![Technologies](https://raw.githubusercontent.com/gseals/personal-bio-site/master/screenshots/Technology.png)
+
+Projects
+![Projects](https://raw.githubusercontent.com/gseals/personal-bio-site/master/screenshots/projects.png)
+
+## Instructions for how to run the project
+
+* Clone down this project from [Github](https://github.com/gseals/personal-bio-site).
+* Install [http-server](https://www.npmjs.com/package/http-server) from npm.
+* At the root of this project, run the following command: `hs -p 8888`.
+* In your browser, navigate to `https://localhost:8888`;
+
+## Contributors
+
+* [Gabriel Seals](https://github.com/gseals)

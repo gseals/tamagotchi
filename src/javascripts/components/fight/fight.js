@@ -1,17 +1,17 @@
 import util from '../../helpers/utilities';
 
-let strength = 50;
+let strength = 100;
 
 const flee = () => {
   if (strength > 0) {
-    strength += 10;
+    strength += 1;
     document.getElementById('proFight').value = strength;
   }
 };
 
 const slap = () => {
   if (strength > 0) {
-    strength -= 3;
+    strength -= 10;
     document.getElementById('proFight').value = strength;
   }
 };

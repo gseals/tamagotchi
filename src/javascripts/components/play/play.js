@@ -4,14 +4,14 @@ let fun = 50;
 
 const playTime = () => {
   if (fun > 0) {
-    fun += 10;
+    fun += 50;
     document.getElementById('proPlay').value = fun;
   }
 };
 
 const lameTime = () => {
   if (fun > 0) {
-    fun -= 3;
+    fun += 2;
     document.getElementById('proPlay').value = fun;
   }
 };
