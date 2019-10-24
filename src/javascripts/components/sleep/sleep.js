@@ -30,4 +30,4 @@ const sleepDiv = () => {
   document.getElementById('slumber').addEventListener('click', bigSleep);
 };
 
-export default { sleepDiv };
+export default { sleepDiv, energy };

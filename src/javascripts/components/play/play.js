@@ -30,4 +30,4 @@ const playDiv = () => {
   document.getElementById('slightFun').addEventListener('click', lameTime);
 };
 
-export default { playDiv };
+export default { playDiv, fun };
