@@ -2,8 +2,7 @@
 
 ## Description
 
-Use this application to relive the nostalgia of the '90s and all your wildest childhood dreams.
-(2 or 3 sentences)
+Use this application to relive the nostalgia of the '90s and all your wildest childhood dreams. Use the buttons on the screen to modify the overall health of your Tamagotchi.
 
 ## Technologies Used
 
