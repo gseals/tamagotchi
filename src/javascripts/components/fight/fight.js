@@ -30,4 +30,4 @@ const fightDiv = () => {
   document.getElementById('hit').addEventListener('click', slap);
 };
 
-export default { fightDiv };
+export default { fightDiv, strength };
