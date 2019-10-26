@@ -14,7 +14,7 @@ Use this application to relive the nostalgia of the '90s and all your wildest ch
 ## Screenshot(s)
 
 Page Load
-![Main View](https://cdn.pixabay.com/photo/2017/10/26/17/51/under-construction-2891888_960_720.jpg)
+![Main View](https://raw.githubusercontent.com/gseals/tamagotchi/master/src/images/Screen%20Shot%202019-10-26%20at%204.25.33%20PM.png)
 
 ## Instructions for how to run the project
 
